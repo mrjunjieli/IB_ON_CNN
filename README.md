@@ -10,4 +10,4 @@ This code is modified according to [https://github.com/artemyk/ibsgd/tree/iclr20
 
 * 'showFig.ipynb': jupyter file that is used to generate figures from experiments data
 
-Our paper is published at [Information Bottleneck Methods on Convolutional Neural Networks](https://arxiv.org/abs/1911.03722)
+Our paper is published at [Neural Processing Letters](https://link.springer.com/article/10.1007/s11063-021-10445-6)
